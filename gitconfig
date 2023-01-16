@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rayhana.s.mouaouia@gmail.com
+	name = Rayhana Mouaouia
